@@ -1,7 +1,6 @@
-# Guess My Number - Multiplayer JavaScript Game
+# Guess My Number - Single Player JavaScript Game
 
-
-Welcome to "Guess My Number," a fun and competitive multiplayer game built with Vanilla JavaScript. In this game, two players take turns guessing a randomly generated number, and the player who beats the high score of the other wins the game.
+Welcome to "Guess My Number," a fun and challenging single-player game built with Vanilla JavaScript. In this game, you'll be trying to guess a randomly generated number within a specified range.
 
 ## Getting Started
 
@@ -20,11 +19,11 @@ Follow these steps to set up and run the game locally in VSCode:
 
 ## Features
 
-- Multiplayer support for competitive gaming.
+- Single-player gameplay for a challenging experience.
 - User-friendly interface.
 - Real-time feedback on each guess.
-- High score tracking to determine the winner.
-- Customizable game range (e.g., 1 to 100, 1 to 1000).
+- High score tracking for personal achievement.
+- Customizable game range.
 - Fun and engaging gameplay for all ages.
 
 ## Technologies Used
@@ -41,6 +40,4 @@ If you want to contribute to this project or report issues, please let me know.
 
 This project is licensed under the MIT License - see the MIT_LICENSE file for details.
 
-
-Enjoy playing "Guess My Number" with your friends and family! Have fun and may the best guesser win!
-
+Enjoy playing "Guess My Number" and see if you can beat your own high score! Have fun and happy guessing!
